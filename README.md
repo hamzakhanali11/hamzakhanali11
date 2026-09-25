@@ -1,17 +1,17 @@
-# I'm Hamza Khan Ali
+#  Hamza Khan Ali
 
 ### 👨‍💻 Computer Engineering Student | Networking Enthusiast
 
 - 🎓 I'm currently studying **Computer Engineering**
-- 🌐 I'm interested in **Computer Networking**
+-  I'm interested in **Computer Networking**
 - 💻 I'm currently learning **C++ and Computer Engineering fundamentals**
-- 🚀 I'm working on improving my **programming and technical skills**
+-  I'm working on improving my **programming and technical skills**
 - 📚 I'm always learning and exploring new technologies
 - ⚡ Fun fact: I enjoy learning how computers and networks work behind the scenes!
 
 
 
-### 🌐 Areas of Interest
+###  Areas of Interest
 
 - Computer Networking
 - Network Security
