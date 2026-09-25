@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hamza Khan Ali
+# I'm Hamza Khan Ali
 
 ### 👨‍💻 Computer Engineering Student | Networking Enthusiast
 
@@ -9,11 +9,7 @@
 - 📚 I'm always learning and exploring new technologies
 - ⚡ Fun fact: I enjoy learning how computers and networks work behind the scenes!
 
-### 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,git,github,linux" />
-</p>
 
 ### 🌐 Areas of Interest
 
